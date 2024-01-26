@@ -13,7 +13,7 @@ new App({
 			'Save and continuous deployment',
 		],
 		// Which CI/CD tools do you use in your project?
-		tools: 'Tekton',
+		tools: 'Tekton, ArgoCD',
 		// What do you want to learn in this workshop?
 		expectations: [
 			'Basics of CI/CD, how to build a pipeline',
